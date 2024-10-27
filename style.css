@@ -1,0 +1,73 @@
+body{
+    background-color: aqua;
+}
+th{
+    border: 1px solid black;
+    /* empty-cells: hide; */
+}
+table{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 90px; 
+    border-spacing: 0;
+    border: 100px
+}
+h1{
+    margin-left: 100px;
+    text-shadow: 5px 10px 10px black;
+    color: black;
+    margin-top: 50px;
+}
+.box{
+    background-color: green;
+    color: white;
+}
+.bar{
+    background-color: darkgray;
+    color: white;
+}
+.back{
+    background-color: red;
+    color: white;
+}
+.m{
+    background-color: darkblue;
+    color: white;
+}
+.c{
+    background-color: purple;
+    color: white;
+}
+.x{
+    background-color: orange;
+    color: white;
+}
+.b{
+    background-color: darkgrey;
+    color: white;
+}
+.d{
+    background-color: orange;
+    color: white;
+
+}
+.p{
+    background-color: darkblue;
+    color: white;
+}
+.g{
+    background-color: yellow;
+    color: white;
+}
+.j{
+    background-color: green;
+    color: white;
+}
+.a{
+    background-color: yellow;
+    color: white;
+}
+h2{
+    color: black;
+    text-shadow: 5px 10px 10px black;
+}
